@@ -103,6 +103,8 @@
 
     * Going over project feedback & correcting after each project
 
+    * Project Reflections
+
     * Practicing using Github each time we work together because Github still confuses me quite a bit
 
     * End of mod portfolio was really poor last mod.
