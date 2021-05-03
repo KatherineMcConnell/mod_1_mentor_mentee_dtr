@@ -6,51 +6,61 @@
 
   Mentor
 
-  * Name:
+  * Name: Heidi Hoopes
 
-  * Pronoun:
+  * Pronoun: She/Her
 
   * What is your relationship to Turing (alum? community?)
-
+      Alum.
   * Where do you work?
-
+      Co State. Prev CVS/Aetna.
   * What was your path into this industry?
-
+      Friends/Family/Exposure
   * If you went to Turing, what did you do before?
-
+      Bio degree. Kiddo raising.
 
   Mentee
 
-  * Name:
+  * Name: Katherine McConnell
 
-  * Pronoun:
+  * Pronoun: She/Her
 
   * What did you do before Turing?
-
+      Nursing
   * What made you decide to come to Turing?
-
+      Had an interest
   * What are you most excited about exploring in your career in tech?
-
+      Building some little stuff
 
 ### Scheduling
 
   * When are the best times for us to connect? (early evening, lunch, etc)
 
+      Mon 1.5 5-6:30 about. [x] On google calendars. Open early communication on any need for change.
+
   * My desired times to connect are: (Send picture of paper schedule to plan times together & will schedule times for Madeleine Halle up to 3x per week)
-
+      N/A
   * What are our known scheduling restrictions? (family obligations, work commitments, etc)
-
+      N/A
 ### Communication
 
   * What is the best way to reach each other? (Slack? Email?)
 
+      slack, until Katherine better learns github, and diagrams.net...so far...and try teletype
+
   * Best format to use to ask detailed question? (ie Eric Weissmans questions format)
+
+      if getting to long check in for 15min chat, if unavailable send long message
+      20min of productive struggle
 
   * How often will we communicate?
 
+      daily to taper
+
   * How soon will we acknowledge that we have seen a message if we are too busy to send a detailed response?
 
-  * How soon will we send a detailed response to a message?
+    est 30m of eta
+
 
 ### Specific Support Requests
 ###### Working on Lessons with Madeleine Halle as well. Can update lessons into strengths as I feel they become strengths.
@@ -65,7 +75,7 @@
       * Flow Control
       * Scope
 
-  * **Are there any topics from last inning that we should focus on reviewing?**
+  * **Are there any topics from last inning that we should focus on REVIEWING?**
 
     * Lessons:
       * Hashes
@@ -77,7 +87,7 @@
       * Single Responsibility & Dry principles
 
 
-  * **Is there any specific technical topic that we should focus on this inning?**
+  * **Is there any specific technical topic that we should focus on LEARNING this inning?**
 
     * Lessons:
       * Git for Pairs: specifically atom teletype and if VS code has anything like it
